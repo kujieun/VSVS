@@ -1,0 +1,6 @@
+module Pods_paran {
+  umbrella header "Pods-paran-umbrella.h"
+
+  export *
+  module * { export * }
+}

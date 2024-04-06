@@ -1,0 +1,1 @@
+../../../Target Support Files/widget-sdk-react-native/widget-sdk-react-native-umbrella.h

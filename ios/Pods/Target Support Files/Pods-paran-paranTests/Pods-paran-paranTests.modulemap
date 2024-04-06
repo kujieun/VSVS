@@ -1,0 +1,6 @@
+module Pods_paran_paranTests {
+  umbrella header "Pods-paran-paranTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

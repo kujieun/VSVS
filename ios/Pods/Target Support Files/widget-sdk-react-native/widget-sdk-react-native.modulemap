@@ -1,0 +1,6 @@
+module widget_sdk_react_native {
+  umbrella header "widget-sdk-react-native-umbrella.h"
+
+  export *
+  module * { export * }
+}

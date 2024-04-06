@@ -1,0 +1,32 @@
+{
+  "name": "widget-sdk-react-native",
+  "version": "1.2.5",
+  "summary": "PaymentWidget SDK for React Native",
+  "homepage": "https://github.com/tosspayments/widget-sdk-react-native#readme",
+  "license": "MIT",
+  "authors": "김진규 <mqz@toss.im> (https://github.com/mqzkim)",
+  "platforms": {
+    "ios": "12.4"
+  },
+  "source": {
+    "git": "https://github.com/tosspayments/widget-sdk-react-native.git",
+    "tag": "1.2.5"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "compiler_flags": "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -Wno-comma -Wno-shorten-64-to-32",
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "RCT-Folly": [
+      "2022.05.16.00"
+    ],
+    "glog": [
+
+    ]
+  },
+  "pod_target_xcconfig": {
+    "HEADER_SEARCH_PATHS": "\"$(PODS_ROOT)/boost\" \"$(PODS_ROOT)/Headers/Private/Yoga\"",
+    "CLANG_CXX_LANGUAGE_STANDARD": "c++20"
+  }
+}
