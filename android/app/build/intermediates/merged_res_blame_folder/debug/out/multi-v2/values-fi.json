@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.travel.app-mergeDebugResources-46:/values-fi/values-fi.xml",
+            "outputFile": "com.travel.app-mergeDebugResources-43:/values-fi/values-fi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\de892d089af2e0549b94392be2625b83\\transformed\\material-1.9.0\\res\\values-fi\\values-fi.xml",
@@ -74,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Windows\\System32\\VSgit3\\VSdaegu\\node_modules\\react-native-date-picker\\android\\build\\intermediates\\packaged_res\\debug\\values-fi\\values-fi.xml",
+                    "source": "C:\\Windows\\System32\\VSVS\\VSVS\\node_modules\\react-native-date-picker\\android\\build\\intermediates\\packaged_res\\debug\\values-fi\\values-fi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

@@ -7,5 +7,5 @@ import App from './App';
 //import ReviewScreen from './ReviewScreen';
 import {name as appName} from './app.json';
 
-AppRegistry.registerComponent(appName, () => App);
+AppRegistry.registerComponent('Travel', () => App);
 //AppRegistry.registerComponent(appName, () => ReviewScreen);

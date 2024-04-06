@@ -1,118 +1,118 @@
 [
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_info1.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_info1.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_landmark2.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_landmark2.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.travel.app-main-47:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\drawable_rn_edit_text_material.xml.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\drawable\\rn_edit_text_material.xml"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_landmark3.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_landmark3.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "com.travel.app-merged_res-45:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.travel.app-main-47:/drawable/rn_edit_text_material.xml"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_theme1.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_theme1.png"
+        "merged": "com.travel.app-merged_res-45:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.travel.app-main-50:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_theme2.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_theme2.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_info1.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_info1.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_mainbackground.jpg.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_mainbackground.jpg"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_kakaotalk.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_kakaotalk.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_landmark1.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_landmark1.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.travel.app-main-47:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_event3.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_event3.png"
+        "merged": "com.travel.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.travel.app-main-50:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_event2.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_event2.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "com.travel.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_event1.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_event1.png"
+        "merged": "com.travel.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_google.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_google.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_theme1.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_theme1.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_kakaotalk.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_kakaotalk.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "com.travel.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_landmark3.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_landmark3.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.travel.app-main-47:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "com.travel.app-merged_res-45:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_event3.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_event3.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_mainbackground.jpg.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_mainbackground.jpg"
+        "merged": "com.travel.app-merged_res-45:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_event1.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_event1.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_theme2.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_theme2.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_landmark2.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_landmark2.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.travel.app-main-50:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_img_img_google.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/img_img_google.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.travel.app-main-47:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.travel.app-main-50:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "com.travel.app-merged_res-45:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.travel.app-main-47:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-merged_res-48:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\82109\\.gradle\\daemon\\8.3\\com.travel.app-main-50:\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "com.travel.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_event2.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_event2.png"
+        "merged": "com.travel.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.travel.app-merged_res-48:/drawable-mdpi_img_img_landmark1.png.flat",
-        "source": "com.travel.app-main-50:/drawable-mdpi/img_img_landmark1.png"
+        "merged": "com.travel.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.travel.app-main-47:/mipmap-mdpi/ic_launcher_round.png"
     }
 ]

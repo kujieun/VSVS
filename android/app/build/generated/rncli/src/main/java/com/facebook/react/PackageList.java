@@ -21,14 +21,6 @@ import com.reactnativegooglesignin.RNGoogleSigninPackage;
 import com.dooboolab.kakaologins.RNKakaoLoginsPackage;
 // @tosspayments/widget-sdk-react-native
 import com.paymentsdk.PaymentSdkPackage;
-// @react-native-community/viewpager
-import com.reactnativecommunity.viewpager.RNCViewPagerPackage;
-// @react-native-firebase/app
-import io.invertase.firebase.app.ReactNativeFirebaseAppPackage;
-// @react-native-firebase/auth
-import io.invertase.firebase.auth.ReactNativeFirebaseAuthPackage;
-// react-native-vector-icons
-import com.oblador.vectoricons.VectorIconsPackage;
 // react-native-date-picker
 import com.henninghall.date_picker.DatePickerPackage;
 // react-native-gesture-handler
@@ -95,10 +87,6 @@ public class PackageList {
       new RNGoogleSigninPackage(),
       new RNKakaoLoginsPackage(),
       new PaymentSdkPackage(),
-      new RNCViewPagerPackage(),
-      new ReactNativeFirebaseAppPackage(),
-      new ReactNativeFirebaseAuthPackage(),
-      new VectorIconsPackage(),
       new DatePickerPackage(),
       new RNGestureHandlerPackage(),
       new IAmPortPackage(),

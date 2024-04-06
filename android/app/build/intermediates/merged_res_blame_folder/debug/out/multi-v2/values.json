@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.travel.app-mergeDebugResources-46:/values/values.xml",
+            "outputFile": "com.travel.app-mergeDebugResources-43:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\85b389a3f92e194855448c3e1b318ff1\\transformed\\cardview-1.0.0\\res\\values\\values.xml",
@@ -59,6 +59,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Windows\\System32\\VSVS\\VSVS\\android\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,710",
+                        "endColumns": "143,81,103,108,119,95,72",
+                        "endOffsets": "194,276,380,489,609,705,778"
+                    },
+                    "to": {
+                        "startLines": "1967,1978,1979,1980,1981,1983,2120",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "134974,135961,136043,136147,136256,136475,155035",
+                        "endColumns": "143,81,103,108,119,95,72",
+                        "endOffsets": "135113,136038,136142,136251,136371,136566,155103"
+                    }
+                },
+                {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\70747eb559ff7807e8c932781b25e1e3\\transformed\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -75,6 +92,23 @@
                         "endLines": "435,1038,1039,1040,1048,1049,1050,1727,12013",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "22357,63519,63567,63623,64309,64385,64457,116441,763093"
+                    }
+                },
+                {
+                    "source": "C:\\Windows\\System32\\VSVS\\VSVS\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "159,265",
+                        "endColumns": "63,68",
+                        "endOffsets": "218,329"
+                    },
+                    "to": {
+                        "startLines": "1866,1867",
+                        "startColumns": "4,4",
+                        "startOffsets": "124534,124598",
+                        "endColumns": "63,68",
+                        "endOffsets": "124593,124662"
                     }
                 },
                 {
@@ -113,23 +147,6 @@
                         "endLines": "574,575,1674,1675,1676,1709,1710,1711,1712,1713,1714,1715,1726,1728,1748,1751,1752,1784,1785,1793,1794,1901,1913,1914,1915,1916,1917,1918,1919,1920,1921,1922,1923,1924,1925,1926,1927,1928,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1945,1984,1989,1990,1993,2031,2032,2033,2119,2121,2122,2123,2134,2135,2136,2137,2138,2139,2140,2141,2143,2144,2146,2147,2157,2161,5524,5527,5545,5549,6044,6047,6394,6441,6450,6457,6486,6489,6492,6631,6637,6640,9297",
                         "endColumns": "62,62,50,53,58,47,48,48,47,48,57,48,49,40,43,42,33,38,45,53,47,116,122,95,119,119,101,118,110,106,102,110,168,167,116,109,114,112,185,107,112,90,110,168,97,126,124,94,106,169,97,182,172,111,100,158,133,139,101,104,130,168,116,147,144,149,98,95,195,182,98,183,166,10,10,12,12,10,10,12,12,25,34,10,10,10,10,10,12,12,12,10",
                         "endOffsets": "30204,30267,113443,113497,113556,115514,115563,115612,115660,115709,115767,115816,116375,116482,117554,117693,117727,119360,119406,119806,119854,127092,128692,128788,128908,129028,129130,129249,129360,129467,129570,129681,129850,130018,130135,130245,130360,130473,130659,130767,130880,130971,131082,131251,131349,131476,131601,131696,131803,132456,136664,137255,137428,137674,142637,142796,142930,155030,155205,155310,155441,156613,156730,156878,157023,157173,157272,157368,157564,157818,157917,158146,158313,159060,159308,393500,393685,394414,394620,426977,427166,450852,453906,454444,454862,456382,456559,456738,468218,468583,468780,646459"
-                    }
-                },
-                {
-                    "source": "C:\\Windows\\System32\\VSgit3\\VSdaegu\\node_modules\\@react-native-seoul\\kakao-login\\android\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,101,148",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "96,143,194"
-                    },
-                    "to": {
-                        "startLines": "576,577,578",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "30272,30318,30365",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "30313,30360,30411"
                     }
                 },
                 {
@@ -245,23 +262,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Windows\\System32\\VSgit3\\VSdaegu\\android\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,3,2",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "17,135,59",
-                        "endColumns": "40,98,74",
-                        "endOffsets": "53,229,129"
-                    },
-                    "to": {
-                        "startLines": "1904,1982,1992",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "127238,136376,137492",
-                        "endColumns": "40,98,74",
-                        "endOffsets": "127274,136470,137562"
-                    }
-                },
-                {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\bbc759acba2c048b57518195849d8071\\transformed\\jetified-autofill-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,19,20,27,32,37,44,53",
@@ -332,6 +332,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Windows\\System32\\VSVS\\VSVS\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "273"
+                    },
+                    "to": {
+                        "startLines": "2178",
+                        "startColumns": "4",
+                        "startOffsets": "160413",
+                        "endLines": "2181",
+                        "endColumns": "12",
+                        "endOffsets": "160591"
+                    }
+                },
+                {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\f234e121b3d32927ecaa62fdb81b9b0c\\transformed\\jetified-play-services-base-18.0.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -382,25 +401,6 @@
                         "startOffsets": "119962",
                         "endColumns": "53",
                         "endOffsets": "120011"
-                    }
-                },
-                {
-                    "source": "C:\\Windows\\System32\\VSgit3\\VSdaegu\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "273"
-                    },
-                    "to": {
-                        "startLines": "2178",
-                        "startColumns": "4",
-                        "startOffsets": "160413",
-                        "endLines": "2181",
-                        "endColumns": "12",
-                        "endOffsets": "160591"
                     }
                 },
                 {
@@ -495,23 +495,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Windows\\System32\\VSgit3\\VSdaegu\\android\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,710",
-                        "endColumns": "143,81,103,108,119,95,72",
-                        "endOffsets": "194,276,380,489,609,705,778"
-                    },
-                    "to": {
-                        "startLines": "1967,1978,1979,1980,1981,1983,2120",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "134974,135961,136043,136147,136256,136475,155035",
-                        "endColumns": "143,81,103,108,119,95,72",
-                        "endOffsets": "135113,136038,136142,136251,136371,136566,155103"
-                    }
-                },
-                {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\20873de6b0f7a074354616f47320e0a3\\transformed\\jetified-viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -531,20 +514,39 @@
                     }
                 },
                 {
-                    "source": "C:\\Windows\\System32\\VSgit3\\VSdaegu\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "source": "C:\\Windows\\System32\\VSVS\\VSVS\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "159,265",
-                        "endColumns": "63,68",
-                        "endOffsets": "218,329"
+                        "startLines": "1,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17,135,59",
+                        "endColumns": "40,98,74",
+                        "endOffsets": "53,229,129"
                     },
                     "to": {
-                        "startLines": "1866,1867",
-                        "startColumns": "4,4",
-                        "startOffsets": "124534,124598",
-                        "endColumns": "63,68",
-                        "endOffsets": "124593,124662"
+                        "startLines": "1904,1982,1992",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "127238,136376,137492",
+                        "endColumns": "40,98,74",
+                        "endOffsets": "127274,136470,137562"
+                    }
+                },
+                {
+                    "source": "C:\\Windows\\System32\\VSVS\\VSVS\\node_modules\\react-native-date-picker\\android\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,16,19,27,30,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,158,215,270,327,371,434,483,542,598,643,700,823,909,1276,1407,2235",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,15,18,26,29,53,57",
+                        "endColumns": "57,56,54,56,43,62,48,58,55,44,56,12,12,12,12,24,24",
+                        "endOffsets": "153,210,265,322,366,429,478,537,593,638,695,818,904,1271,1402,2230,2361"
+                    },
+                    "to": {
+                        "startLines": "1902,1965,1966,1986,1987,2034,2035,2036,2106,2145,2148,5536,5539,9277,9285,11919,12831",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "127097,134862,134919,136822,136879,142935,142998,143047,153629,157922,158318,394008,394131,645525,645892,758759,791923",
+                        "endLines": "1902,1965,1966,1986,1987,2034,2035,2036,2106,2145,2148,5538,5541,9284,9287,11942,12834",
+                        "endColumns": "57,56,54,56,43,62,48,58,55,44,56,12,12,12,12,24,24",
+                        "endOffsets": "127150,134914,134969,136874,136918,142993,143042,143101,153680,157962,158370,394126,394212,645887,646018,759582,792049"
                     }
                 },
                 {
@@ -567,6 +569,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Windows\\System32\\VSVS\\VSVS\\node_modules\\@react-native-seoul\\kakao-login\\android\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    },
+                    "to": {
+                        "startLines": "576,577,578",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "30272,30318,30365",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "30313,30360,30411"
+                    }
+                },
+                {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\3f8a0fe1705b1de5a7de675956bdea74\\transformed\\transition-1.2.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -581,25 +600,6 @@
                         "startOffsets": "116209,116249,117472,117775,117830,119411,119465,119517,119566,119627",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "116244,116291,117510,117825,117872,119460,119512,119561,119622,119672"
-                    }
-                },
-                {
-                    "source": "C:\\Windows\\System32\\VSgit3\\VSdaegu\\node_modules\\react-native-date-picker\\android\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,16,19,27,30,54",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,158,215,270,327,371,434,483,542,598,643,700,823,909,1276,1407,2235",
-                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,15,18,26,29,53,57",
-                        "endColumns": "57,56,54,56,43,62,48,58,55,44,56,12,12,12,12,24,24",
-                        "endOffsets": "153,210,265,322,366,429,478,537,593,638,695,818,904,1271,1402,2230,2361"
-                    },
-                    "to": {
-                        "startLines": "1902,1965,1966,1986,1987,2034,2035,2036,2106,2145,2148,5536,5539,9277,9285,11919,12831",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "127097,134862,134919,136822,136879,142935,142998,143047,153629,157922,158318,394008,394131,645525,645892,758759,791923",
-                        "endLines": "1902,1965,1966,1986,1987,2034,2035,2036,2106,2145,2148,5538,5541,9284,9287,11942,12834",
-                        "endColumns": "57,56,54,56,43,62,48,58,55,44,56,12,12,12,12,24,24",
-                        "endOffsets": "127150,134914,134969,136874,136918,142993,143042,143101,153680,157962,158370,394126,394212,645887,646018,759582,792049"
                     }
                 },
                 {

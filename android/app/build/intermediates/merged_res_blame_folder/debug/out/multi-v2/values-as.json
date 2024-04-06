@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.travel.app-mergeDebugResources-46:/values-as/values-as.xml",
+            "outputFile": "com.travel.app-mergeDebugResources-43:/values-as/values-as.xml",
             "map": [
                 {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\71b7f6bd809cffe5103c8c3986057954\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-as\\values.xml",

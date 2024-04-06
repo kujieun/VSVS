@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.travel.app-mergeDebugResources-46:/values-zu/values-zu.xml",
+            "outputFile": "com.travel.app-mergeDebugResources-43:/values-zu/values-zu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\b22d3e0c4656a90b15fe4a0f68cf710d\\transformed\\appcompat-1.6.1\\res\\values-zu\\values-zu.xml",

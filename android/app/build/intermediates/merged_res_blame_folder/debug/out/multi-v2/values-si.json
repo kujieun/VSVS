@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.travel.app-mergeDebugResources-46:/values-si/values-si.xml",
+            "outputFile": "com.travel.app-mergeDebugResources-43:/values-si/values-si.xml",
             "map": [
                 {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\4f3e53542943e0a5fe57b6de57b285a4\\transformed\\jetified-react-android-0.73.4-debug\\res\\values-si\\values-si.xml",

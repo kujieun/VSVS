@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.travel.app-mergeDebugResources-46:/values-nl/values-nl.xml",
+            "outputFile": "com.travel.app-mergeDebugResources-43:/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\82109\\.gradle\\caches\\transforms-3\\71b7f6bd809cffe5103c8c3986057954\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-nl\\values.xml",
@@ -18,23 +18,6 @@
                         "startOffsets": "5221",
                         "endColumns": "142",
                         "endOffsets": "5359"
-                    }
-                },
-                {
-                    "source": "C:\\Windows\\System32\\VSgit3\\VSdaegu\\node_modules\\react-native-date-picker\\android\\build\\intermediates\\packaged_res\\debug\\values-nl\\values-nl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,116,177,235,294,337,403,452,514,570,615",
-                        "endColumns": "60,60,57,58,42,65,48,61,55,44,59",
-                        "endOffsets": "111,172,230,289,332,398,447,509,565,610,670"
-                    },
-                    "to": {
-                        "startLines": "34,65,66,73,74,94,95,96,133,151,153",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3117,6601,6662,7252,7311,8785,8851,8900,11839,13266,13385",
-                        "endColumns": "60,60,57,58,42,65,48,61,55,44,59",
-                        "endOffsets": "3173,6657,6715,7306,7349,8846,8895,8957,11890,13306,13440"
                     }
                 },
                 {
@@ -69,6 +52,23 @@
                         "startOffsets": "319,437,542,649,734,838,958,1036,1112,1204,1298,1393,1487,1587,1681,1777,1872,1964,2056,2138,2249,2352,2451,2566,2680,2783,2938,12289",
                         "endColumns": "117,104,106,84,103,119,77,75,91,93,94,93,99,93,95,94,91,91,81,110,102,98,114,113,102,154,102,82",
                         "endOffsets": "432,537,644,729,833,953,1031,1107,1199,1293,1388,1482,1582,1676,1772,1867,1959,2051,2133,2244,2347,2446,2561,2675,2778,2933,3036,12367"
+                    }
+                },
+                {
+                    "source": "C:\\Windows\\System32\\VSVS\\VSVS\\node_modules\\react-native-date-picker\\android\\build\\intermediates\\packaged_res\\debug\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,177,235,294,337,403,452,514,570,615",
+                        "endColumns": "60,60,57,58,42,65,48,61,55,44,59",
+                        "endOffsets": "111,172,230,289,332,398,447,509,565,610,670"
+                    },
+                    "to": {
+                        "startLines": "34,65,66,73,74,94,95,96,133,151,153",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3117,6601,6662,7252,7311,8785,8851,8900,11839,13266,13385",
+                        "endColumns": "60,60,57,58,42,65,48,61,55,44,59",
+                        "endOffsets": "3173,6657,6715,7306,7349,8846,8895,8957,11890,13306,13440"
                     }
                 },
                 {
